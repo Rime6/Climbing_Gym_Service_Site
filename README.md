@@ -2,6 +2,9 @@
 
 This website is a class project for the University of Ottawa course **Analysis and Design of User Interfaces**. It is a polished, high-fidelity prototype for a fictional indoor climbing gym, designed to showcase user-centered interaction, clear visual hierarchy, and a welcoming digital experience.
 
+Live site
+- View the live portfolio at: https://mountaingoatsclimbinggym.netlify.app/
+
 ## What the site does
 
 - Presents a full course booking flow with a dedicated **Courses** page, an interactive **Booking** page, and a **Confirmation** page that summarizes reservation details.
