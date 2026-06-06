@@ -1,16 +1,24 @@
-# React + Vite
+# Mountain Goats Climbing Gym Service Site
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This website is a class project for the University of Ottawa course **Analysis and Design of User Interfaces**. It is a polished, high-fidelity prototype for a fictional indoor climbing gym, designed to showcase user-centered interaction, clear visual hierarchy, and a welcoming digital experience.
 
-Currently, two official plugins are available:
+## What the site does
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+- Presents a full course booking flow with a dedicated **Courses** page, an interactive **Booking** page, and a **Confirmation** page that summarizes reservation details.
+- Helps users explore membership options with a clean **Memberships** comparison layout, making pricing easy to understand.
+- Supports gear decisions with a **Gear** page that clearly separates rental and purchase options.
+- Provides a friendly, approachable entry point for beginners while still offering a structured, self-service experience for motivated climbers.
 
-## React Compiler
+## Design goals and choices
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- The visual tone aims to feel premium yet grounded. I used a dark charcoal color for the navigation and footer, paired with forest green and warm amber accents, to balance sophistication with the natural warmth of a climbing gym.
+- Typography was chosen to reinforce clarity and personality: **Montserrat** for bold headings adds a strong, geometric presence, while **Inter** keeps body text clean and easy to read.
+- The layout uses **generous spacing** and a consistent **card system** so each page feels open and easy to scan. This supports fast decision-making and reduces visual clutter.
+- Iconography is used in moderation to support section meaning without overwhelming the interface, so users can quickly recognize key actions and content areas.
+- The site blends an **approachable booking flow** with **data-focused membership and gear information**, creating a balanced experience for both novice and more analytical users.
 
-## Expanding the ESLint configuration
+## Why this approach
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+The design is meant to feel welcoming to new visitors while still conveying trust and clarity. The warm accent palette and friendly language encourage exploration, while the structured pricing and booking sections make planning a climb easy and confident.
+
+This README describes the project as my submission for my UI design university course, highlighting both the functional features and the visual design rationale behind the site.
